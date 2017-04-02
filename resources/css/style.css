@@ -1,0 +1,28 @@
+* {
+  text-align: center;
+  image-orientation: center;
+  font-family: Verdana;
+  font-weight: normal;
+  color: white;
+  background-color: black;
+}
+h1 {
+  font-size: 50px;
+}
+h2 {
+  font-weight: 300;
+  font-size: 42px;
+}
+h3 {
+  font-size: 21px;
+  color: Gray;
+}
+.link {
+  color: Aquamarine;
+  font-size: 16px;
+}
+.footer {
+  text-align: right;
+  color: Gray;
+  font-size: 21px;
+}
