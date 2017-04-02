@@ -1,4 +1,4 @@
-* {
+body {
   text-align: center;
   image-orientation: center;
   font-family: Verdana;
@@ -17,7 +17,7 @@ h3 {
   font-size: 21px;
   color: Gray;
 }
-.link {
+a {
   color: Aquamarine;
   font-size: 16px;
 }
